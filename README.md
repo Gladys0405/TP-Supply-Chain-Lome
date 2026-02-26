@@ -1,0 +1,3 @@
+Planification, organisation et supervision sont les mots d’ordre de la logistique et de la Supply Chain, garantissant une meilleure gestion des flux, l’optimisation des stocks ainsi que la réduction des coûts et des délais.
+
+Nonobstant, l’analyse et l’interprétation des données via des outils numériques sont tout aussi cruciales pour la performance de la chaîne globale. C’est précisément l’objet de ce projet, au cours duquel nous avons entrepris des activités d’audit, de nettoyage et de détection d’anomalies sur des données illogiques. L’objectif final est d’extraire la véritable valeur ajoutée d'une entreprise d’import-export grâce à une donnée fiable et exploitable.
